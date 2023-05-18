@@ -1,0 +1,301 @@
+# PortfolioQ1
+@charset "utf-8";
+* { 
+  padding: 0px;
+  margin: 0px;
+}
+
+#header {
+  text-align: center;
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  background-color: #7E5D5E;
+  font-size: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 10px;
+  font-styl:italic;
+  
+}
+.nav-bar, .flexbox {
+  display: flex;
+ font-style:oblique;
+}
+
+.nav-bar {
+width: 50%;
+  height: 403px;
+  background-color: #BAD6D6;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+  font-style: italic;
+  flex-direction: column;
+	border-radius: 10px;
+}
+.nav-bar a {
+  margin: 1%;
+  padding: 0px 10%;
+	border-radius: 10px;
+}
+.flexbox {
+  flex-direction: row;
+  justify-content: flex-start;
+	border-radius: 10px;
+}
+.content {
+  height: 400px;
+  background-color: #A26768;
+  border-top: dashed;
+ border-radius: 10px;
+	
+}
+.nav-bare {
+  
+}
+.img{
+	height: 70PX;
+	width: 70PX;
+	border-radius:10px;
+	border:ridge;
+	position: inherit;
+	text-align: justify;
+	background-color: antiquewhite;
+}
+.co-content.table{
+	display: auto;
+	color: #8C6768;
+    background-color: #A3A3A3;
+	
+	
+	
+	
+	
+}
+.table.th{
+	width: 80%;
+	height: 30%;
+	align-self: center;
+	background-color: aqua;
+	border-style: dashed;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: left;
+	text-align: center;
+	
+}
+
+
+#footer{
+  text-align: left;
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  background-color: #7E5D5E;
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 10px;
+  font-styl:italic;
+ 
+	
+}
+@charset "utf-8";
+* { 
+  padding: 0px;
+  margin: 0px;
+}
+
+#header {
+  text-align: center;
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  background-color: #7E5D5E;
+  font-size: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 10px;
+  font-styl:italic;
+  
+}
+.nav-bar, .flexbox {
+  display: flex;
+ font-style:oblique;
+}
+
+.nav-bar {
+width: 50%;
+  height: 403px;
+  background-color: #BAD6D6;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+  font-style: italic;
+  flex-direction: column;
+	border-radius: 10px;
+}
+.nav-bar a {
+  margin: 1%;
+  padding: 0px 10%;
+	border-radius: 10px;
+}
+.flexbox {
+  flex-direction: row;
+  justify-content: flex-start;
+	border-radius: 10px;
+}
+.content {
+  height: 400px;
+  background-color: #A26768;
+  border-top: dashed;
+ border-radius: 10px;
+	
+}
+.nav-bare {
+  
+}
+.img{
+	height: 70PX;
+	width: 70PX;
+	border-radius:10px;
+	border:ridge;
+	position: inherit;
+	text-align: justify;
+	background-color: antiquewhite;
+}
+.co-content.table{
+	display: auto;
+	color: #8C6768;
+    background-color: #A3A3A3;
+	
+	
+	
+	
+	
+}
+.table.th{
+	width: 80%;
+	height: 30%;
+	align-self: center;
+	background-color: aqua;
+	border-style: dashed;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: left;
+	text-align: center;
+	
+}
+
+
+#footer{
+  text-align: left;
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  background-color: #7E5D5E;
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 10px;
+  font-styl:italic;
+ 
+	
+}
+@charset "utf-8";
+* { 
+  padding: 0px;
+  margin: 0px;
+}
+
+#header {
+  text-align: center;
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  background-color: #7E5D5E;
+  font-size: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 10px;
+  font-styl:italic;
+  
+}
+.nav-bar, .flexbox {
+  display: flex;
+ font-style:oblique;
+}
+
+.nav-bar {
+width: 50%;
+  height: 403px;
+  background-color: #BAD6D6;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+  font-style: italic;
+  flex-direction: column;
+	border-radius: 10px;
+}
+.nav-bar a {
+  margin: 1%;
+  padding: 0px 10%;
+	border-radius: 10px;
+}
+.flexbox {
+  flex-direction: row;
+  justify-content: flex-start;
+	border-radius: 10px;
+}
+.content {
+  height: 400px;
+  background-color: #A26768;
+  border-top: dashed;
+ border-radius: 10px;
+	
+}
+.nav-bare {
+  
+}
+.img{
+	height: 70PX;
+	width: 70PX;
+	border-radius:10px;
+	border:ridge;
+	position: inherit;
+	text-align: justify;
+	background-color: antiquewhite;
+}
+.co-content.table{
+	display: auto;
+	color: #8C6768;
+    background-color: #A3A3A3;
+	
+	
+	
+	
+	
+}
+.table.th{
+	width: 80%;
+	height: 30%;
+	align-self: center;
+	background-color: aqua;
+	border-style: dashed;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: left;
+	text-align: center;
+	
+}
+
+
+#footer{
+  text-align: left;
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  background-color: #7E5D5E;
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-top: auto;
+  border-radius: 10px;
+  font-styl:italic;
+ 
+	
+}
